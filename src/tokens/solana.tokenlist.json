@@ -133,6 +133,17 @@
         "GameFi",
         "Gaming"
       ],
+    {
+      "chainId": 101,
+      "address": "Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A",
+      "symbol": "ILA",
+      "name": "iLoveArt",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A/logo.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+      ],
       "extensions": {
         "coingeckoId": "monkeyball",
         "description": "MonkeyBall is the next-gen esports metaverse empowering players to create, play, compete, and earn.",
